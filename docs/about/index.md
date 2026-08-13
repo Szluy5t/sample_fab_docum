@@ -31,8 +31,7 @@ title: About Me
 
 > _"Fear Eats The Soul."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I love Music
 
 </div>
 
